@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Anonno Das</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">A passionate and innovative Frontend Web Developer and Cross-Platform Mobile App Developer from Bangladesh, committed to creating seamless and user-friendly digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mranonno&label=Profile%20views&color=0e75b6&style=flat" alt="mranonno" /> </p>
 
